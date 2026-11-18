@@ -1,0 +1,8 @@
+{
+  "name": "Midnight Public School",
+  "description": "A first-person anomaly survival horror game set in a looping abandoned school at night.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
